@@ -1,0 +1,6 @@
+- For some components it only make sense to have one in the system. For example, a single `App` component that is the root of the application.
+- The constructor call is expensive
+    - we only do it once
+    - we provide everyone with the same instance
+- Lazy loading and thread safety
+    - We can lazy load the module that provides the service

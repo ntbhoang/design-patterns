@@ -1,0 +1,5 @@
+Open Closed Principle + Specification Pattern
+
+- Imagine you will build an application like Amazon.
+- You have a product class and you want to filter products based on different criteria.
+

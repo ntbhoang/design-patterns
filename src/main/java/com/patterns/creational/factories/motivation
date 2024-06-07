@@ -1,0 +1,4 @@
+1- Wholesale creation (not piecewise like Builder) can be outsourced to:
+    a) A separate function (factory method)
+    b) That may exist in separate class (Factory)
+    c) Can create hierarchy of objects (Abstract Factory)

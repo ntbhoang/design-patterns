@@ -1,0 +1,11 @@
+
+g
+java:S1640"Convert this Map to an EnumMap.(έζ¨Σϋÿÿÿÿ8ϊγ“νύ1J$78c378dc-b4ee-4bee-8bb4-b7639a4a759c
+
+java:S1854,"<Remove this useless assignment to local variable "fallback".(Ώκφ½8ζ¥νύ1J$5d699759-9484-494c-a88f-da9405baba03
+…
+java:S1854+"=Remove this useless assignment to local variable "auxiliary".(φ‡©–ωÿÿÿÿ8ζ¥νύ1J$7a0984cb-5fd7-4052-b8dc-dbf1d1bd04fe
+v
+java:S1481+".Remove this unused "auxiliary" local variable.(φ‡©–ωÿÿÿÿ8η¥νύ1J$52b2a543-3789-4068-9bef-0722bd5f1efd
+p
+java:S1481,"-Remove this unused "fallback" local variable.(Ώκφ½8η¥νύ1J$3a2ab00a-b19f-4476-81ae-bd20aaa2a7b4

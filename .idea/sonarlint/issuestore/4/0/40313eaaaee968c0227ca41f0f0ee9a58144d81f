@@ -1,0 +1,9 @@
+
+Ü
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ú›Øº8ıÉÌŠş1J$861c8063-62eb-4a75-bce2-fd1729049cd9
+™
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(©ÉÏû8Á”äŠş1J$2df61700-02b9-4a69-ab13-c556d5d446ce
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÇüúŠş1
+p
+java:S1144"-Remove this unused private "getCount" method.(Ÿ¡÷ä8€ÊÌŠş1J$b26a3c93-9f63-4bee-8fdd-cff62688a00d

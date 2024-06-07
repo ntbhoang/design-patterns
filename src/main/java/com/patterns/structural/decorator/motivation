@@ -1,0 +1,10 @@
+You should consider using the Decorator pattern in the following scenarios:
+
+Adding New Features: You want to add extra features to objects without changing their core structure. It’s like putting toppings on a pizza without changing the pizza itself.
+Avoiding Messy Code: You want to avoid having too many different classes for all possible combinations of features.
+Instead, you can mix and match decorators as needed.
+Open for Extension, Closed for Modification: You want to make your code ready for future changes by allowing new features to be added without messing up existing code.
+This aligns with the Open/Closed Principle.
+
+
+https://www.digitalocean.com/community/tutorials/decorator-design-pattern-in-java-example

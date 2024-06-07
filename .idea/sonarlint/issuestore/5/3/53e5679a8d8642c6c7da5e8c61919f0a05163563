@@ -1,0 +1,13 @@
+
+«
+java:S1319"hThe type of "elements" should be an interface such as "List" rather than the implementation "ArrayList".(ÇŸ·®8¢ª˜áı1J$b60f2eaf-3361-4b4a-9d69-87e8eb21cbd4
+“
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(ÛÆç8£ª˜áı1J$f198a607-bc2f-417a-a23b-63cf4d6d3987
+“
+java:S1104"PMake text a static final constant or non-public and provide accessors if needed.(ÛÆç8£ª˜áı1J$f8a085d2-47d4-4491-9823-c858ead3fcbc
+—
+java:S1104"TMake elements a static final constant or non-public and provide accessors if needed.(ÇŸ·®8£ª˜áı1J$59c20ffd-f591-4262-91aa-d334c44d6165
+d
+java:S1170"!Make this final field static too.(”ÒÖ‘8©ª˜áı1J$2dbe3eee-8d5d-4171-9c75-557fe13d805f
+e
+java:S1659""Declare "text" on a separate line.(ÛÆç8©ª˜áı1J$985a7077-15cc-4777-b8ad-4992a539c130

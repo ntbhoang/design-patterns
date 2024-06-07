@@ -1,0 +1,2 @@
+- Usage examples: The Flyweight pattern has a single purpose: minimizing memory intake.
+If your program does not struggle with a shortage of RAM, then you might just ignore this pattern for a while.
